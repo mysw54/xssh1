@@ -1,4 +1,4 @@
-FROM devisty/xssh:v2
+FROM devisty/xssh1:v2
 EXPOSE 80
 
 COPY . /app
